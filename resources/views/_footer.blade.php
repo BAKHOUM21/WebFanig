@@ -1,18 +1,18 @@
-<footer class="main-footer " style="color:white; background-color:rgb(1,1,1)">
+<footer class="main-footer " style="color:white; background-color:rgb(255,255,255)">
     <div class="container">
         <div class="row  g-3 menu">
             <div class="col-md-4">
                 <a href=" {{ route('home') }}" class=" text-center">
-                    <img src="{{ asset('img/logo2.jpg') }}" width="150" height="80" alt="">
+                    <img src="{{ asset('img/logo4.jpg') }}" width="150" height="80" alt="">
                 </a>
-                <p class="fs-5 text-white text-center">
+                <p class="fs-5 text-black text-center">
                     <b>FANIG ENGINEERING</b> votre entreprise d’étude et de réalisations
                     de projets de Bâtiments et travaux publics.
 
                 </p>
 
             </div>
-            <div class="col-md-4 fs-5 text-white mt-5 text-center">
+            <div class="col-md-4 fs-5 text-black mt-5 text-center">
                 <ul>
                     <b style="color: rgb(210,107,44)"><u>Links</u> </b>
                     <li><a href="{{route('home')}}">home</a></li>
@@ -22,7 +22,7 @@
                     <li class="nav-item dropdown fs-5">
                         <a class="nav-link dropdown-toggle"  href="#"
                             id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <strong>Réalisations</strong>
+                            Réalisations
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="background-color: black">
                             <li><a class="dropdown-item fs-5" style="color: rgb(210,107,44)" href="#"><strong>HYDRAULIQUE
@@ -39,7 +39,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-4 mt-5 text-center fs-5  text-white">
+            <div class="col-md-4 mt-5 text-center fs-5  text-black">
                 <ul>
                     <b style="color: rgb(210,107,44)"><u>Contact</u></b>
                     
@@ -70,7 +70,7 @@
 
         </div>
     </div>
-    <div class="text-center mt-5">
+    <div class="text-center text-black mt-5">
         Copyright &copy; 2021-2022 <a href="{{ asset('https://fanig.sn') }}"><b
                 style="color: rgb(210,107,44)">FANIG</b></a>.
         All rights reserved.

@@ -18,7 +18,7 @@
     {{-- _menu --}}
 <style>
     .menu {
-        background: #010101;
+        background: rgb(255,255,255);
         color: #929292;
     }
 </style>

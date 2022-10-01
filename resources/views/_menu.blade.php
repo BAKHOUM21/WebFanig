@@ -1,13 +1,12 @@
 <style>
     .menu {
-        background: #010101 important!;
+        background: rgb(255,255,255) important!;
         color: #929292;
     }
 </style>
 <div class="container-fluid bg-warning py-2">
     <div class="flex-row d-flex ">
         <div class="mx-2">
-
             <a href="#" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-instagram" viewBox="0 0 16 16">
@@ -50,7 +49,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark   menu shadow p-3 ">
     <div class="container-fluid">
         <a class="navbar-brand ms-5" href=" {{route('home')}} ">
-            <img src="{{ asset('img/logo2.jpg') }}" width="90" height="40" alt="">
+            <img src="{{ asset('img/logo4.jpg') }}" width="90" height="40" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -66,7 +65,7 @@
                     <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="#"><strong>Projects</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="{{ route('blog.index') }}"><strong>Blog</strong></a>
+                    <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="{{-- {{ route('blog.index') }} --}}"><strong>Blog</strong></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link fs-5" style="color: rgb(210,107,44)" href=" {{ route('contact') }} "><strong>Contact</strong></a>
@@ -93,7 +92,7 @@
         </div>
         <div>
             <a href="#"><button class="btn fs-5"
-                    style="background-color: rgb(210,107,44)"><strong>Connexion</strong></button></a>
+                    style="background-color: rgb(210,107,44); color:white"><strong>Connexion</strong></button></a>
         </div>
     </div>
 </nav>
