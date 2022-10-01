@@ -8,7 +8,7 @@
     <div class="flex-row d-flex ">
         <div class="mx-2">
 
-            <a href="#">
+            <a href="#" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-instagram" viewBox="0 0 16 16">
                     <path
@@ -17,7 +17,7 @@
             </a>
         </div>
         <div class="mx-2">
-            <a href="#">
+            <a href="#" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-facebook" viewBox="0 0 16 16">
                     <path
@@ -26,7 +26,7 @@
             </a>
         </div>
         <div class="mx-2">
-            <a href="#">
+            <a href="#" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-whatsapp" viewBox="0 0 16 16">
                     <path
@@ -77,7 +77,7 @@
                         <strong>Réalisations</strong>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="background-color: black">
-                        <li><a class="dropdown-item fs-5" style="color: rgb(210,107,44)" href="#"><strong>HYDROLIQUE
+                        <li><a class="dropdown-item fs-5" style="color: rgb(210,107,44)" href="#"><strong>HYDRAULIQUE
                                     ASSAINISSEMENT</strong> </a></li>
                         <li><a class="dropdown-item fs-5" style="color: rgb(210,107,44)"
                                 href="#"><strong>GÉOTECHNIQUE</strong> </a></li>
@@ -92,8 +92,8 @@
             </ul>
         </div>
         <div>
-            <button class="btn fs-5"
-                    style="background-color: rgb(210,107,44)"><a href="#"><strong>Connexion</strong></a></button>
+            <a href="#"><button class="btn fs-5"
+                    style="background-color: rgb(210,107,44)"><strong>Connexion</strong></button></a>
         </div>
     </div>
 </nav>
