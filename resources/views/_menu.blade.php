@@ -1,3 +1,9 @@
+<style>
+    .menu {
+        background: #010101 important!;
+        color: #929292;
+    }
+</style>
 <div class="container-fluid bg-warning py-2">
     <div class="flex-row d-flex ">
         <div class="mx-2">
@@ -60,7 +66,7 @@
                     <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="#"><strong>Projects</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="#"><strong>Blog</strong></a>
+                    <a class="nav-link fs-5" style="color: rgb(210,107,44)" href="{{ route('blog.index') }}"><strong>Blog</strong></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link fs-5" style="color: rgb(210,107,44)" href=" {{ route('contact') }} "><strong>Contact</strong></a>

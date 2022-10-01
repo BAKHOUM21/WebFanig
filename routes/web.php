@@ -19,4 +19,5 @@ Route::get('/', function () {
 });
 Route::get('/',[FanigController::class,'home'])->name('home');
 Route::get('/contact',[FanigController::class,'contact'])->name('contact');
+Route::get('/index_blog',[FanigController::class,'blog'])->name('blog.index');
 
