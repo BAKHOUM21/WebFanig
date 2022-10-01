@@ -42,15 +42,7 @@
                         </a>
 
                     </li>
-                    <li>
-                        
-                            <div class="" style="float: right">
-                                <p><b>Mobile:</b>(+221) 77 241 18 00/(+221) 77 216 40 67</p>
-                            </div>
-                            
-                
-
-                    </li>
+                   
                     <li>
                         <a href="mailto:fanigengineering@gmail.com" class="">
                             <div class="" style="float: right">
@@ -63,6 +55,12 @@
                             </div>
                         </a>
 
+                    </li>
+
+                    <li>
+                        <div class="" style="float: right">
+                            <p><b>Mobile:</b>(+221) 77 241 18 00/(+221) 77 216 40 67</p>
+                        </div>
                     </li>
                     
                    
