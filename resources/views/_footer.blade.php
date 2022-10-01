@@ -45,7 +45,7 @@
                     <li>
                         <a href="#" class="">
                             <div class="" style="float: right">
-                                <h1>Mobile:  (+221) 77 241 18 00</h1>
+                                <h1>Mobile:  (+221) 77 241 18 00/(+221) 77 216 40 67</h1>
                             </div>
                             <div class="text-align" style="float: left">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">

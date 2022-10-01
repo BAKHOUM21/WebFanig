@@ -166,7 +166,7 @@
                       <h1 class="fs-1 text-center"><strong style="color: rgb(210,107,44)">HYDRAULIQUE ASSAINISSEMENT</strong>
                       </h1>
                       <div class="list-inside text-justify ps-3">
-                          <li class=" fs-4"><b> Hydrolique Urbain</b></li>
+                          <li class=" fs-4"><b> Hydraulique Urbain</b></li>
                           <li class=" fs-4"><b> Hydraulique rural</b></li>
                           <li class=" fs-4"><b> Assainissement non collectif</b></li>
                           <li class=" fs-4"><b> Assainissement routier</b></li>
@@ -416,7 +416,7 @@
 
 
   --}}
-                      <li class=" fs-4"><b> Logiciels de dessins bâtiment (autocad, Archi- cad, Lumion)</b></li>
+                      <li class=" fs-4"><b> Logiciels de dessins bâtiment (autocad, Archicad, Lumion)</b></li>
                       <li class=" fs-4"><b> Logiciels de géotechnique (Alizé LCPC, Plaxis 2D, GEO5)</b></li>
                       <li class=" fs-4"><b> Technique de construction en terre crue et choix de la bonne terre</b></li>
                       <li class=" fs-4"><b> Logiciel de calcul de structure (Robot CBS/RSA GRAITEC, CYPE)</b></li>                      
