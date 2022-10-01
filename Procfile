@@ -1,1 +1,1 @@
-web: heroku-php-apache2 ressources/views
+web: heroku-php-apache2 ressources/views/
