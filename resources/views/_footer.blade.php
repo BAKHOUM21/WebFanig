@@ -1,4 +1,4 @@
-<footer class="main-footer " style="color:white; background-color:rgb(255,255,255)">
+<footer class="main-footer" style="color:white; background-color:rgb(255,255,255)">
     <div class="container">
         <div class="row  g-3 menu">
             <div class="col-md-4">
