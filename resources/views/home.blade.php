@@ -437,9 +437,9 @@
        
         </div>
 
-        <div class="container-fluid bkground1 brightness-50  my-5">
-            <div class="container">
-                <div class="row py-3 g-3">
+        <!-- <div class="container-fluid my-5">
+            <div class="container bkground1 brightness-50">
+                <div class="row  py-3 g-3 pb-5">
                     <div class="col-sm-4 bg-light">
                         <h1 class="text-center">Titre</h1>
                         <p class="text-center">
@@ -461,41 +461,17 @@
                         accusantium error consequuntur eos?
 
                     </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
-                    </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
-                    </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
-                    </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
-                    </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
-                    </div>
-                    <div class="col-sm-4 bg-light">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti tempore, expedita hic, porro
-                        neque eveniet ullam ipsum deserunt praesentium officia rerum atque nemo dolorum, quo quisquam
-                        accusantium error consequuntur eos?
-
+                
+                </div>
+            </div>
+        </div> -->
+        <div class="container-fluid bkground1 brightness-100 my-5">
+            <div class="container">
+                <div class="row py-3 g-3 pb-5">
+                    <div class="col-sm-12">
+                        <h1 class="text-center text-light fw-bold">
+                            Pour des batiments repondants aux normes de construction et un cadre de vie ideal, faites confiance a <span class='text-warning'> FANIG ENGINEERING.</span>
+                        </h1>
                     </div>
                 </div>
             </div>

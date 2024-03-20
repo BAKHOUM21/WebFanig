@@ -14,6 +14,10 @@ class FanigController extends Controller
     {
         return view('contact');
     }
+    public function login()
+    {
+        return view('login');
+    }
     public function blog()
     {
         return view('blog/index'); 

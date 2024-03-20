@@ -5,14 +5,14 @@
                 <a href=" {{ route('home') }}" class=" text-center">
                     <img src="{{ asset('img/logo4.jpg') }}" width="150" height="80" alt="">
                 </a>
-                <p class="fs-5 text-black text-center">
-                    <b>FANIG ENGINEERING</b> votre entreprise d’étude et de réalisations
+                <p class="fs-5 text-black ">
+                    <b class='text-warning'>FANIG ENGINEERING</b> votre entreprise d’étude et de réalisations
                     de projets de Bâtiments et travaux publics.
 
                 </p>
 
             </div>
-            <div class="col-md-4 fs-5 text-black mt-5 text-center">
+            <div class="col-md-4 text-center fs-5 text-black mt-5 ">
                 <ul>
                     <b style="color: rgb(210,107,44)"><u>Links</u> </b>
                     <li><a href="{{route('home')}}">home</a></li>
@@ -39,7 +39,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-4 mt-5 text-center fs-5  text-black">
+            <div class="col-md-4 mt-5 fs-5  text-black">
                 <ul>
                     <b style="color: rgb(210,107,44)"><u>Contact</u></b>
                     
@@ -67,10 +67,9 @@
                 </ul>
             </div>
             
-
         </div>
     </div>
-    <div class="text-center text-black mt-5">
+    <div class="text-center text-light pt-3 pb-3 mt-5 bg-dark">
         Copyright &copy; 2021-2022 <a href="{{ asset('https://fanig.sn') }}"><b
                 style="color: rgb(210,107,44)">FANIG</b></a>.
         All rights reserved.

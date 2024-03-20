@@ -17,7 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/',[FanigController::class,'home'])->name('home');
+Route::get('/',[FanigController::class,'login'])->name('login');
 Route::get('/contact',[FanigController::class,'contact'])->name('contact');
+Route::get('/home',[FanigController::class,'home'])->name('home');
 Route::get('/index_blog',[FanigController::class,'blog'])->name('blog.index');
 

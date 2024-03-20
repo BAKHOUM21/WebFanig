@@ -66,6 +66,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid mb-3">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10911.607323225393!2d-17.32269305181968!3d14.77827452583583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec10b89978a489f%3A0x228f2f132a083af2!2sTerminus%2071%20keur%20massar%20unit%C3%A94!5e0!3m2!1sfr!2sma!4v1663638225155!5m2!1sfr!2sma" width="1410" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    </div>
+    <div class="container mb-3">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10911.607323225393!2d-17.32269305181968!3d14.77827452583583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec10b89978a489f%3A0x228f2f132a083af2!2sTerminus%2071%20keur%20massar%20unit%C3%A94!5e0!3m2!1sfr!2sma!4v1663638225155!5m2!1sfr!2sma" width="930" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   
+    </div>
 @endsection
